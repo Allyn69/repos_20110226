@@ -66,9 +66,10 @@ sub show_log {
 
     chdir $cwd;
     foreach my $repo (@repos) {
+		next if($repo->{abs} =~ m/^\.git$/);
 		print STDERR "$repo->{abs} ...\n";
 		print $repo->{abs}, ":\n";
-        system("git","--git-dir",$repo->{abs},'log','--pretty=oneline','-n',2,@OPTS);
+        system("git","--git-dir",$repo->{abs},'log','--pretty=oneline','-n',5,@OPTS);
 		print STDERR "\n";
 		print "\n";
     }
@@ -86,7 +87,6 @@ foreach(@ARGV) {
 	}
 }
 push @PATH,'.' unless(@PATH);
-print "\n\n";
 foreach(@PATH) {
     show_log($_,@LOG_OPT);
 }	

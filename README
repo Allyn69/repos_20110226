@@ -1,0 +1,230 @@
+badluck/badluck.git:
+da4e10151f7bcda733c89d84bffad9797af2d0e7 update README
+d9f1b02493daa03125aa8a2496f329d8746152d0 initial import
+
+codebase/c.git:
+06342a0d8f70bfc9d67f6aeedff26739ba1a0734 [c] initial commit
+
+codebase/cpp.git:
+b91bc39c541d05c36bfb6210f9908a24867d5ca5 [cpp] initial commit
+
+codebase/devcpp.git:
+602e0c1e211c58a87fc00835cf4ceec24232ce9b Initial commit.
+
+codebase/eclipse.git:
+0a5c272541b6a6b080d3cd17109c990186a153ec Initial commit.
+
+codebase/freebasic.git:
+8548f1e72ad0eac797f6d57f207f8676e46da47d update git config files, add README
+bf33816478dab95967aaf37d69309165ccf6db54 update gitconfig, README
+a2d01ccc8cc0873e1cceafd6540b854bc1bc3f73 delete exe files, add README
+7c56685943426e4e847d65b7e29d4179ea46b632 initial import
+82dd75f1d4ec5719adc3191804e5186132dd7574 Initial directory structure.
+
+codebase/makefiles.git:
+d07f2a92fe9ea3c02f942549b4661eb0211d4513 Initial commit
+
+codebase/vb6.git:
+001a04065c2a2ff24bc611fcc47c3d53c61665bf Fix files mode.
+8343d022b083a32c1e8474475ad7b5465cb511d2 cleanup, update sslibExplorer, add Fac
+7cc492c052b344402fb0f28bacab898065eaf201 delete useless files
+47040d25ce5da20bd8d589bd892e38bd6457436c initial import
+
+codebase/vc6.git:
+c5d3da68f6be92d093668c84473aa22b94e6bddc Initial commit.
+
+codebase/vsnet.git:
+9ca551b6428cd76feaec7bf5c04fb27080551e53 Initial commit.
+
+drawings.git:
+63ff6562d6256c12c16865357f2dbfc1962d1820 initial commit
+
+ebooks.git:
+a8c3d039b97c964ee519867a7f16eb64ea87d562 added .repos, config file for gsvn-init-repo
+9b3565870bc175252db9b29c9aa8110a55c298e1 update README
+74363a62eadad6bc4614861b63f64e886fae52d0 add README
+c3d35fce0cad6401ca7673556f605d8f87478181 initial import
+82484c53e16593921ce6b9d8718e71715c1b14e5 Initial directory structure.
+
+loseplace/core.git:
+fa69db976e8ebada5799cae59affb1fab0d785b2 Add .gitignore.
+42508e643dd46b9581972568bc400c9d9345df45 Update shell.bat and other paths.
+8890d142c6ec521bfbe31c55c5e5dc2049b03580 Initial commit, copy data from loseplace/loseplace
+
+loseplace/losebox.git:
+4648b0a31ddd14b215c44691cb2f6c18511403c7 initial commit, from loseplace revision r5
+18bcfa0186556cce06bb4e2dfd30e30b235ced4d initial directory structure.
+
+loseplace/loseplace.git:
+8285af61cdef86f319c784044bc2ea30fd3df6dd Update .gitignore, Add appdata/putty.
+074c0a2c782597773f1d04f7582b8f98df481bc9 Update cmd/firefox.bat
+4c2ec572f6d2e167cf1463fe192346bccfbaac2c Remove .ssh and some useless files, Update public profile.
+23bb2e3d8413918fa76e226f70bbc900d1f627fc Subproject updates
+5db7aaced0e4541a52ad91b7c688d7f42564e599 Remove xiaoranzzz/.bash_history
+
+loseplace/mini.git:
+71014e9d5d2009e4b00e9342b252546edc7db27d Initial commit.
+
+loseplace/thinapp.git:
+e61ea1b39752be46c18e474e75185f470dce1836 Initial commit.
+
+nightgun/nightgun.git:
+7e10000b376b17e70d598fa84c8630e08f5c0350 added .repos, config file for gsvn-init-repo
+7361bff89b5cbab2e22d4be3de096b1b50e7934c update README
+c3c73457965a2fb2b0b379faf9640a66c19a5433 add git related files
+865322e569346db3c38ab8e0f21079d93b38a499 update desktop file
+c21cd6e88e12edb2500a3af67c46015203e2f452 source clean up
+
+profiles/avatars.git:
+c1405c8ac631728b93b881452119c63e265463fb Update README again.
+033a0b58e8241d1e31a05f1e9ebb1ae96ffeb458 Update README.
+986eeff4a03c306f304cdbee8c5bbc3ec4560c93 Add README.
+f7b48b68862a8dbec415710886dc1670890cbf87 Add avatars for "Eotect Nahn"
+
+profiles/babebase.git:
+2b51f8e6a159a4b8640866ab37f93152d28fa2b8 Reformat database BABES.
+1adcd8ac456a64989d8b93559b25e100c409db2e Add .gitignore
+c9776c2e8af284d9275a690870746bd3a5c34626 updated database BEAUTY
+73f1badb3320d262cd632bf0feb18b692e9b6c9f updated database, added entries for 申在喜 赵相嘻 宫小萌 丁梦瑶 @NEWGIRL 刘艺蕾
+7d28d6337ed2360c2ed5f95b4e439c00125fea6f updated database, add BABES repository
+
+profiles/firefox.git:
+eb841a4cee080b8869947be3ebc327816d28eb9a xiaoranzzz: Add and remove extensions.
+c84585280607a3c4c236e4bbdf67cca7de9acf5e Update extensions.* files.
+efc31a87f6e77eda5aa40e6fccdeff7b7d9908bd Update extensions, Remove .gitignore
+57b9e3bac21b348c06d493124206b2dfa2fab12a Remove some useless extensions again.
+28ccee818f3d610756b41a2ec1bbd1d66e989550 Remove some useless extensions
+
+profiles/gm-scripts.git:
+b51a4ffbe10d601bc4ca8a007c126071825de147 updated "searchdirectly.user.js"
+e8492490276fbdf07d893376a1933bcd8b22d577 merged old archive from workspace reversion r137
+cf5a0ff71bbaa5cbca5bc77408373dd1586c041b merged old archive from workspace reversion 81
+ee4a6f79d928e0ab3e24db8896bee8333193dcb3 merged old archive from workspace reversion 78
+9ce38065755fbe8cc52ab2829d47fd8d3a534862 updated config
+
+profiles/homebase.git:
+c7173085e840535e228718fbcd7fd66fbeaee9f6 bashrc: Add PERL and SHELLSCRIPT to $PATH.
+e18b229baa1a9631739e61d60b737ad895a8a30f Update bashrc.
+fdf3d520c1e64b4f350bb9ba9fb293bf0afde295 Update bashrc.
+717ea74f4c17146b3731921f66bc0f44af89a2d7 Remove vim/plugin/totd.vim
+c47fa2b5b16add31434f9ec568d7dd8e66e94bf7 Update from host debian Gnu/Linux.
+
+profiles/private.git:
+cc7b3068e7d612d7497a0e17245297cb9631894d Add ssh id.
+
+scripts/batch.git:
+cb455189784f20cbd7a35ee819036aed024ce293 initial commit
+3de553c29652604f3e4fa12e36f4852d2d8d5c42 initial directory layout
+
+scripts/libmyplace-perl.git:
+53728ba33a0d130ab7734dcbde909c47a58afeb1 Add IniExt.
+b850b340944f68cb31665be85ed4c5c785072de4 added Daum::Search
+97c53059652e28ef9ae85172e292ede178b660b2 fixed URLRule,updated Discuz
+f4adc80d103f625505d906032d1e1242b18797e4 updates URLRule, made use of original URL as default referer when downloading
+60e5578ab4ea1696d304a0a958376ef695c52bca updated modules Config, Curl and Discuz
+
+scripts/logo.git:
+cf35ee3142a44b5079c105ac58d048d5f535bfd3 Initial commit
+
+scripts/lua.git:
+889c53e2205e49338574b09b4cebad2dbbbbb513 Initial commit.
+
+scripts/perl.git:
+23cb5c5a5bf5d0af256e1a3cf3463e4a09787176 Update git-push-remote, no fatal while pusing failed
+3bd26400af8dbf51569283cfac68c35b3c871f6b Fix "editpipe".
+1926fb6a7c8bedf7a9890f4af39a638159b69040 Add mercurial related files
+6d577662a11b009fba720aa28dbce0d343f52b67 Rename apt-log-show as apt-showlog, add ssh-sf.net.
+cfb11bf5a95d5cde0af7390e9a9acf2c90f02581 Add subversion dump file related scripts
+
+scripts/sh.git:
+d5929dc50724361ee1d15b2fe41c052cd5899aa4 Add script chmod_reset.
+dab8b4b5396eb0048dd3f03211c76beaa915f50c updated script "myphone"
+8f034c839689139137791e60a3fd5f97085da741 rename git-svn-clone-googlecode to gsvn-clone-googlecode
+a42178044a4d67a210658db40ca36163c80a03da added scripts 7z-store, raysource and thunder. updated scripts r-edit and shnew
+ff9f19a6e8aa4f0ad490e9a685215317d4f600a0 update script_template and shnew
+
+scripts/wscript.git:
+6602d3253fc27420cad404af63c673bdc0ed232e Initial commit.
+
+texts/notes.git:
+1a2b3fa9bad83e3c984864e9a1e528e88c780577 Initial commit.
+
+texts/texts.git:
+3079105c63ac41eede85985ad1ac67970fe8fcbb added .repos, config file for gsvn-init-repo
+4d5dc4c97e52f025c81765d0c7791ed8f1ddb57a update README
+a8fd3a72fcb049fbb179c810dbb46e9107ff55a2 add README, update .gitconfig
+f32ac11bd8910a4ebeda1675e3706be68c828432 add README
+c98c79ac9ee70bda4ff67f24d6493fbf50f01b14 add articles for git-svn
+
+texts/webpages.git:
+06c27bb1c793a2fe4420c61913062a6f6ac631f6 created index page
+fc88a9eff41b51606dc026f0ee35455888968ee3 initial directory structure
+
+texts/www.git:
+ed747f127f3a3846da268ce87967dee494c6f422 initial commit
+
+usys/sysbuilder.git:
+bfa3c2b56dbbaede3b0030599d3b20560f400e56 Initial commit.
+
+usys/toolbox.git:
+6afcdd7cb50d664be031f7555463d2decec9a9f3 Add mbr tools.
+5d61b650dcc0db9308930b27f3dbece45d49c07a Initial commit.
+
+usys/usys.git:
+e80887d2670b2bc26516daf9938e7d4b830c0a5d Compress bootdisk images, update menus.
+ba75ebeccede896b584df34bd9fda3b5ae6dc6df Update grub4dos, menus. Add hiren's bootcd v13.1.
+1e3c3c42980ff30f551fbbea0d024fb39dfab13f Move files to "files/".
+19315e81a09b49cf0d8aa982ac2f0d420304b988 Add msd98se system files
+d50000e36268e28aec0b4c31cec841169c6cf86b update README
+
+usys/xrdos.git:
+80069ca1ea2f44758b913443251e3a1ba716cdbc Initial commit.
+
+utils.git:
+60264daa78d4b84b626a4e92602f5f41563ead94 [marksix] added script for downloading data pages
+27eefd8892e387bba32c7b07a5f52a4c958416c5 added .repos, config file for gsvn-init-repo
+d85997ab1d861d7ab155787ce67aa1549623893a initial import
+1538c2a2fbad020c6c094f487b9fe2ed8f54af68 Initial directory structure.
+
+vcsplace/github-sync.git:
+49001f10f3c909e93282a464685b51038cc04704 [update_repolist.pl] added "vcsplace" as default project
+45ed4d61ba1b5b4a8e65ec39292b94624e55f7ee github-sync initial commit
+c542d7328056935123169d11de685156179d6e6a github-sync initial directory layout
+
+vcsplace/gsbridge.git:
+b097d64eb74d7e95ec695764f2a48f40b5c8bf24 added project entries for vcsplace and github-sync
+0fbe857b5875e64c28e4d1b0294b717e776d6a70 gsbridge: fixed pulling new projects
+9a39d3b55d2a12f4c375b6f4819ee48f85affd7b gsbridge: downgraded perl version requirement
+f7c53c7485d958425a50d5b0e7ff6513b7e1464a added bootstrap.sh
+3e3a1d12526379f3d5cb829741c07b42cf7cebdf updated .PROJECTS, gsbridge
+
+vcsplace/reposman.git:
+b7b142c65ba56a90467d3133e8fb4fb6417753cb Add missing "lib/MyPlace/IniExt.pm".
+4c31b34e4f35025ab3d703192550ec117c8cd6e6 projects.workspace: Add loseplace/mini and loseplace/core.
+b9b2c90a52e41ae343feb2f817f574b1debf28c1 reposman.pl: Bug fixed, "git --bare clone" to "git clone --bare".
+ad573810c020e25a38934573909aeed51b614262 Update IniExt.pm projects.workspace and reposman.pl.
+a7ad361da4dc09c3bfc3a698321a65c8f29f94b6 reposman.pl: Use module lib/IniExt.pm
+
+vcsplace/ws.git:
+3268ae6e9f69be618b9efa45469986493891a3e7 Update checkout scripts.
+7c121497e795485df4f3b6c0aa0d1adba11e66de Add script "checkout.win".
+a28a53c84303c01829bb7dffc799565cd72aea78 Delete symbol-link reposman, update .gitignore.
+a472bae089db96315fd53c51715302607d97f506 Update script checkout
+f7ea06a2fe95ff7c11b815f04fed2e56420fab4f Update .gitignore.
+
+webdev/css.git:
+bbda354bc2bcf1407f5c547915c6f3a9786388b1 Initial commit
+
+webdev/htmlscripts.git:
+0c9778ad58a99bd2725e81dcd539e485d5d69987 Initial commit.
+
+webdev/templates.git:
+d66e448f79afd9bfa28bf46ec9e2305cd296845c Initial commit.
+
+websaver/websaver2.git:
+e870d3a167bfc959c9cc336ef2d5727cd679923a Update extension informations.
+6591ab88f6ae6b96164d4af800cfe18c4ad52e65 fixed bug found from cataedit3.js,function addCatalog(), which open an old catalog editor instead of the new
+78dc69a059798398dc985a35ead8b44c30cef628 update dbopFS.js, move useless files to unused
+03f6848226727e2cd9f60c5159742233287810a9 add .repos, update topicedit.js
+3fea1b05f830f535185459dcff1d6ffa3543a3a1 update README
+
