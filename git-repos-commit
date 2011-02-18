@@ -1,4 +1,5 @@
 #!/bin/sh
 
 ./git-repos-log . >README 
-git commit -a "$@"
+git add README
+git commit "$@"
