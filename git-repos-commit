@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./git-repos-log . >.repos.log 
+git commit -F .repos.log -e "$@"
