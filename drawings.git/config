@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:eotect/drawings.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "gitorious"]
+	url = git@gitorious.org:eotect/drawings.git
+	fetch = +refs/heads/*:refs/remotes/gitorious/*

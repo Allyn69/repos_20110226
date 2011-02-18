@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[branch "master"]
+[remote "origin"]
+	url = git@github.com:ztexts/texts.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "gitorious"]
+	url = git@gitorious.org:ztexts/texts.git
+	fetch = +refs/heads/*:refs/remotes/gitorious/*

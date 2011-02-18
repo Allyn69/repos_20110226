@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[branch "master"]
+[remote "origin"]
+	url = git@git.assembla.com:gsbridge.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "sourceforge"]
+	url = ssh://zrepos.git.sourceforge.net/gitroot/zrepos/vcsplace/gsbridge
+	fetch = +refs/heads/*:refs/remotes/sourceforge/*
+[remote "unfuddle"]
+	url = git@eotect.unfuddle.com:eotect/gsbridge.git
+	fetch = +refs/heads/*:refs/remotes/unfuddle/*

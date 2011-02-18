@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:vcsplace/ws.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "gitorious"]
+	url = git@gitorious.org:vcsplace/ws.git
+	fetch = +refs/heads/*:refs/remotes/gitorious/*
+[remote "sourceforge"]
+	url = ssh://zrepos.git.sourceforge.net/gitroot/zrepos/vcsplace/ws
+	fetch = +refs/heads/*:refs/remotes/sourceforge/*
