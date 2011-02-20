@@ -47,6 +47,8 @@ c3d35fce0cad6401ca7673556f605d8f87478181 initial import
 82484c53e16593921ce6b9d8718e71715c1b14e5 Initial directory structure.
 
 loseplace/core.git:
+8bc912f2c108f80642cc1840e0fd895517c9cb7c Update data.
+d803da8a39a14f31bac43e1bc2ed531becd843c6 Add DBank data.
 fa69db976e8ebada5799cae59affb1fab0d785b2 Add .gitignore.
 42508e643dd46b9581972568bc400c9d9345df45 Update shell.bat and other paths.
 8890d142c6ec521bfbe31c55c5e5dc2049b03580 Initial commit, copy data from loseplace/loseplace
@@ -63,6 +65,7 @@ loseplace/loseplace.git:
 5db7aaced0e4541a52ad91b7c688d7f42564e599 Remove xiaoranzzz/.bash_history
 
 loseplace/mini.git:
+88c22a6c41a0c4494df1be278e3c1a7c89f51292 Update submodules.
 71014e9d5d2009e4b00e9342b252546edc7db27d Initial commit.
 
 loseplace/thinapp.git:
@@ -89,18 +92,18 @@ c9776c2e8af284d9275a690870746bd3a5c34626 updated database BEAUTY
 7d28d6337ed2360c2ed5f95b4e439c00125fea6f updated database, add BABES repository
 
 profiles/firefox.git:
+5ea4102491adecd494820e5b6f70842707276fcc Update searchplugins.
 eb841a4cee080b8869947be3ebc327816d28eb9a xiaoranzzz: Add and remove extensions.
 c84585280607a3c4c236e4bbdf67cca7de9acf5e Update extensions.* files.
 efc31a87f6e77eda5aa40e6fccdeff7b7d9908bd Update extensions, Remove .gitignore
 57b9e3bac21b348c06d493124206b2dfa2fab12a Remove some useless extensions again.
-28ccee818f3d610756b41a2ec1bbd1d66e989550 Remove some useless extensions
 
 profiles/gm-scripts.git:
+63d12547c0a9cd5a037851393caf3c3a753ea13a Update config.xml.
 b51a4ffbe10d601bc4ca8a007c126071825de147 updated "searchdirectly.user.js"
 e8492490276fbdf07d893376a1933bcd8b22d577 merged old archive from workspace reversion r137
 cf5a0ff71bbaa5cbca5bc77408373dd1586c041b merged old archive from workspace reversion 81
 ee4a6f79d928e0ab3e24db8896bee8333193dcb3 merged old archive from workspace reversion 78
-9ce38065755fbe8cc52ab2829d47fd8d3a534862 updated config
 
 profiles/homebase.git:
 c7173085e840535e228718fbcd7fd66fbeaee9f6 bashrc: Add PERL and SHELLSCRIPT to $PATH.
