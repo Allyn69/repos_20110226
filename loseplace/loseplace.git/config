@@ -4,8 +4,4 @@
 	bare = true
 	ignorecase = true
 [remote "origin"]
-	url = git@github.com:loseplace/loseplace.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[remote "gitorious"]
-	url = git@gitorious.org:loseplace/loseplace.git
-	fetch = +refs/heads/*:refs/remotes/gitorious/*
+	url = /myplace

@@ -1,12 +1,13 @@
 eotect.repos@gmail.com
 
+gokuai:
+
 账号:h0xKQSY9ayWFfl@163.com 密码:shangshan 主机地址:smtp.163.com
 账号:hoMiQZnHW6ezO@163.com 密码:shangshan 主机地址:smtp.163.com
 账号:hMe1bY5GbDwqZ@163.com 密码:shangshan 主机地址:smtp.163.com
 账号:hvw28j8E0GRZe@163.com 密码:shangshan 主机地址:smtp.163.com
-
-
 账号:hXIHl4ZdQlMPcp@163.com 密码:shangshan 主机地址:smtp.163.com
+
 账号:hytwFaLnOS5OTl@163.com 密码:shangshan 主机地址:smtp.163.com
 账号:hYFgcGldKQeNG@163.com 密码:shangshan 主机地址:smtp.163.com
 账号:hot9pJqUmXefyM@163.com 密码:shangshan 主机地址:smtp.163.com

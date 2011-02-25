@@ -47,11 +47,11 @@ c3d35fce0cad6401ca7673556f605d8f87478181 initial import
 82484c53e16593921ce6b9d8718e71715c1b14e5 Initial directory structure.
 
 loseplace/core.git:
+4a3203c02b61158a178596113460e9fad9b5a3b0 Update cmd/ and data/linux.
 8bc912f2c108f80642cc1840e0fd895517c9cb7c Update data.
 d803da8a39a14f31bac43e1bc2ed531becd843c6 Add DBank data.
 fa69db976e8ebada5799cae59affb1fab0d785b2 Add .gitignore.
 42508e643dd46b9581972568bc400c9d9345df45 Update shell.bat and other paths.
-8890d142c6ec521bfbe31c55c5e5dc2049b03580 Initial commit, copy data from loseplace/loseplace
 
 loseplace/losebox.git:
 4648b0a31ddd14b215c44691cb2f6c18511403c7 initial commit, from loseplace revision r5
@@ -79,10 +79,11 @@ c3c73457965a2fb2b0b379faf9640a66c19a5433 add git related files
 c21cd6e88e12edb2500a3af67c46015203e2f452 source clean up
 
 profiles/avatars.git:
+202446c39519f1112412427da255fb7e215c6ee7 Add avatars for xiaoranzzz.
+f152ee9dbd48b399da359c9b7c53c2e38cdc223e Add avatar for xrlfun.
 c1405c8ac631728b93b881452119c63e265463fb Update README again.
 033a0b58e8241d1e31a05f1e9ebb1ae96ffeb458 Update README.
 986eeff4a03c306f304cdbee8c5bbc3ec4560c93 Add README.
-f7b48b68862a8dbec415710886dc1670890cbf87 Add avatars for "Eotect Nahn"
 
 profiles/babebase.git:
 2b51f8e6a159a4b8640866ab37f93152d28fa2b8 Reformat database BABES.
@@ -112,7 +113,11 @@ fdf3d520c1e64b4f350bb9ba9fb293bf0afde295 Update bashrc.
 717ea74f4c17146b3731921f66bc0f44af89a2d7 Remove vim/plugin/totd.vim
 c47fa2b5b16add31434f9ec568d7dd8e66e94bf7 Update from host debian Gnu/Linux.
 
+profiles/mails.git:
+8ce6c49e01970397750e1fb1067e2f8bd9d30e1c Initial commit.
+
 profiles/private.git:
+78b1a586fd3092332d7840c00e2a82a7f9ef08cf Add loseplace.nahn .ssh key files.
 cc7b3068e7d612d7497a0e17245297cb9631894d Add ssh id.
 
 scripts/batch.git:
@@ -167,6 +172,7 @@ texts/www.git:
 ed747f127f3a3846da268ce87967dee494c6f422 initial commit
 
 usys/sysbuilder.git:
+cd34e291324ab1ace552d27bda128fbe28ba559d Fix files mode and pathname.
 bfa3c2b56dbbaede3b0030599d3b20560f400e56 Initial commit.
 
 usys/toolbox.git:
@@ -174,11 +180,14 @@ usys/toolbox.git:
 5d61b650dcc0db9308930b27f3dbece45d49c07a Initial commit.
 
 usys/usys.git:
+942bcca2980f7de518cb98c50ac9798d96d656e7 Add BOOTFONT.BIN to files root.
+6659b07abe64da17f58d82325516d3faea2c91ec Add large floppy disk image for my toolbox.
 e80887d2670b2bc26516daf9938e7d4b830c0a5d Compress bootdisk images, update menus.
 ba75ebeccede896b584df34bd9fda3b5ae6dc6df Update grub4dos, menus. Add hiren's bootcd v13.1.
 1e3c3c42980ff30f551fbbea0d024fb39dfab13f Move files to "files/".
-19315e81a09b49cf0d8aa982ac2f0d420304b988 Add msd98se system files
-d50000e36268e28aec0b4c31cec841169c6cf86b update README
+
+usys/utils.git:
+0b79bcdc41878ccbe427e7208e6d2ffc32677cee Initial commit.
 
 usys/xrdos.git:
 80069ca1ea2f44758b913443251e3a1ba716cdbc Initial commit.
