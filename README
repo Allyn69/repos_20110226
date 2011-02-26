@@ -100,6 +100,7 @@ efc31a87f6e77eda5aa40e6fccdeff7b7d9908bd Update extensions, Remove .gitignore
 57b9e3bac21b348c06d493124206b2dfa2fab12a Remove some useless extensions again.
 
 profiles/foxwps.git:
+03bc44b7ce5614059a5312f77b873826664b82ed Initial import.
 
 profiles/gm-scripts.git:
 63d12547c0a9cd5a037851393caf3c3a753ea13a Update config.xml.
