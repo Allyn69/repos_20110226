@@ -100,6 +100,7 @@ c84585280607a3c4c236e4bbdf67cca7de9acf5e Update extensions.* files.
 efc31a87f6e77eda5aa40e6fccdeff7b7d9908bd Update extensions, Remove .gitignore
 
 profiles/foxwps.git:
+3de954ec10d1f5914d89a62ba6b2548ecc438f41 Update query scripts and database.
 03bc44b7ce5614059a5312f77b873826664b82ed Initial import.
 
 profiles/gm-scripts.git:
