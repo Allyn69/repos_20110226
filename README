@@ -47,11 +47,11 @@ c3d35fce0cad6401ca7673556f605d8f87478181 initial import
 82484c53e16593921ce6b9d8718e71715c1b14e5 Initial directory structure.
 
 loseplace/core.git:
-fb7eeb61eeb4f6412ae64e5df25befc97793cbeb Add dbank registry for eotect.repos.
-46089b22dc7aca5af1452cd101e2e6873c105b4e Add dbank registry for eotect.repos.
+08d18430a11366202d3ace65cb424a88c47a6546 Add dbank registry for eotect.repos.
 4a3203c02b61158a178596113460e9fad9b5a3b0 Update cmd/ and data/linux.
 8bc912f2c108f80642cc1840e0fd895517c9cb7c Update data.
 d803da8a39a14f31bac43e1bc2ed531becd843c6 Add DBank data.
+fa69db976e8ebada5799cae59affb1fab0d785b2 Add .gitignore.
 
 loseplace/losebox.git:
 4648b0a31ddd14b215c44691cb2f6c18511403c7 initial commit, from loseplace revision r5
